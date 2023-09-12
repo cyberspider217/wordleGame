@@ -2,7 +2,7 @@
 A word guessing game using Python.
 
 ## Description
-< This is a command line version of Wordle, restricted to 4 letter words. >
+This is a command line version of Wordle, restricted to 4 letter words.
 
 ## ScreenShots
 ()[]
